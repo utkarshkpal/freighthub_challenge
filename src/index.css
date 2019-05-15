@@ -1,0 +1,56 @@
+@import-normalize;
+
+.pageHeader {
+  border: 0.5px solid #ebedf0;
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+
+.searchLabel{
+  margin-right:20px;
+}
+
+
+
+.searchWrapper{
+  padding: 20px;
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.detailHeader{
+  width:80%;
+  margin :0 auto;
+  border: 1px solid rgb(235, 237, 240);
+}
+
+.headerWrapper{
+  width: 80%;
+  margin: 15px auto 15px;
+  padding: 7px;
+  text-align: center;
+}
+
+.elementBorder{
+  border: 1px solid #e8e8e8;
+  border-radius: 4px;
+}
+
+.extraContent{
+  margin-top:20px;
+}
+
+.tableWrapper{
+  max-width: 1150px;
+  margin: 0 auto;
+}
+.detailContent{
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+}
+

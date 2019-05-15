@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App should render correctly in "debug" mode 1`] = `ShallowWrapper {}`;
+
+exports[`Detail should render properly 1`] = `ShallowWrapper {}`;
+
+exports[`List  should render properly 1`] = `ShallowWrapper {}`;
+
+exports[`MyComponent should render correctly in "debug" mode 1`] = `ShallowWrapper {}`;
